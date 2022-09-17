@@ -1,1 +1,18 @@
 Learning to use git from the command line.
+
+git clone {clone url} --> to clone a repository
+git checkout -b {name of the branch} --> checksout a branch of same name,- option 'b' is for creating a new branch
+git add {file name} --> adds untracked file to be tracked
+git commit --> commits the changes on the local branch
+git staus --> shows the current branch name, state of the tracked files and changes to be committed if any
+git restore --staged {filename} --> to unstage a staged file
+git branch -a --> lis all branches
+git branch {name} --> creates a branch of the given namem without switching to it
+git log --> shows the commit history of the currentt branch
+git log branch1...branch2 --> *shows the commits in branch2 which are not in branch1
+git push --set-upstream origin dev/Aries --> To push the current branch and set the remote as upstream
+git diff --> shows unstaged changes between index and current working directory
+git commit --amend --> amends new staged changes onto the previous commit without creating a new commit
+	flags: --no-edit --> to not modify the commit message
+	       -m {message} --> to give an updated committ message
+
