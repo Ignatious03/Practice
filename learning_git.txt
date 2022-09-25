@@ -16,3 +16,5 @@ git commit --amend --> amends new staged changes onto the previous commit withou
 	flags: --no-edit --> to not modify the commit message
 	       -m {message} --> to give an updated committ message
 
+
+going to learn how to rebase
