@@ -17,4 +17,5 @@ git commit --amend --> amends new staged changes onto the previous commit withou
 	       -m {message} --> to give an updated committ message
 
 
-going to learn how to rebase -- learning rebase (will probably throw conflict)
+going to learn how to rebase -- learning rebase (will probably throw conflict) -- did cause conflict
+trying to rebase after commiting some changes in branch 1 
