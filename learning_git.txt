@@ -18,3 +18,4 @@ git commit --amend --> amends new staged changes onto the previous commit withou
 
 
 going to learn how to rebase
+trying to rebase after commiting some changes in branch 1 
