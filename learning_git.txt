@@ -19,3 +19,6 @@ git commit --amend --> amends new staged changes onto the previous commit withou
 
 going to learn how to rebase -- learning rebase (will probably throw conflict) -- did cause conflict
 trying to rebase after commiting some changes in branch 1 
+
+we will try to amend a commit after pushing the changes
+lets ammend our las pushed commit now
