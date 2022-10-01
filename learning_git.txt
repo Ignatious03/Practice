@@ -22,3 +22,10 @@ trying to rebase after commiting some changes in branch 1
 
 we will try to amend a commit after pushing the changes
 lets ammend our las pushed commit now
+
+lets try that 1 more time. lets go
+
+this is how to do it :
+
+git commit --amend --no-edit (if we don't want to edit the last commit message)
+git push origin (branch name) -f or --force (should be carefully used rewrites commit history of remote)
