@@ -33,3 +33,8 @@ git push origin (branch name) -f or --force (should be carefully used rewrites c
 SSH Commands:
 Create an ssh key -> $ ssh-keygen -t ed25519 -C "ignaiousmj@gmail.com"
 to change password for existing ssh key -> $ ssh-keygen -p -f ~/c/Users/ignatious.a/.ssh/id_ed25519
+
+Trying out VIM editor inside gitbash
+Press insert to enter into edit mode of the file
+when done , cick ESC
+to save and exit type :wq and press enter
