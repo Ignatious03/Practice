@@ -29,4 +29,7 @@ this is how to do it :
 
 git commit --amend --no-edit (if we don't want to edit the last commit message)
 git push origin (branch name) -f or --force (should be carefully used rewrites commit history of remote)
-Hello there
+
+SSH Commands:
+Create an ssh key -> $ ssh-keygen -t ed25519 -C "ignaiousmj@gmail.com"
+to change password for existing ssh key -> $ ssh-keygen -p -f ~/c/Users/ignatious.a/.ssh/id_ed25519
