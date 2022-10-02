@@ -29,3 +29,4 @@ this is how to do it :
 
 git commit --amend --no-edit (if we don't want to edit the last commit message)
 git push origin (branch name) -f or --force (should be carefully used rewrites commit history of remote)
+Hello there
